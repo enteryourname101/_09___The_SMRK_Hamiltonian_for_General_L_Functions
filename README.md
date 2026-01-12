@@ -1,3 +1,7 @@
+> This repository is part of the **Quansistor Field Computing (QFC)** corpus.
+>
+> Canonical entry point:
+> https://github.com/101researchgroup
 # The SMRK Hamiltonian for General L-Functions  
 ### Spectral Arithmetic Dynamics Beyond ζ(s)
 
